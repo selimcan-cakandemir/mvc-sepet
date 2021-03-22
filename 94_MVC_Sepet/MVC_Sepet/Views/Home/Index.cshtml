@@ -1,0 +1,59 @@
+﻿@model List<MVC_Sepet.Models.Product>
+
+@{ 
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row mt-2">
+    <div class="col-md-9">
+        <div class="card">
+            <div class="card-header">
+                <h3>Ürün Listesi</h3>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    @foreach (var product in Model)
+                    {
+                        <div class="col-sm-4">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h5>@product.ProductName</h5>
+                                </div>
+                                <div class="card-body">
+                                    <img class="card-img" src="https://egeosgb.com.tr/wp-content/uploads/2016/11/orionthemes-placeholder-image-1.png" />
+                                    <div class="row mt-3">
+                                        <div class="col-sm-4 text-left">
+                                            <span>@product.UnitPrice</span>
+                                        </div>
+                                        <div class="col-md-8 text-right">
+                                            @Html.ActionLink("Sepete Ekle","AddToCart",new { id=product.ProductID},new { @class="btn btn-sm btn-primary"})
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card">
+            <div class="card-header">
+                <h3>Kategori Listesi</h3>
+            </div>
+            <div class="card-body">
+                <ul class="list-group">
+                    @foreach (var category in ViewBag.Categories as List<MVC_Sepet.Models.Category>)
+                    {
+                        <li class="list-group-item">
+                            @Html.ActionLink(category.CategoryName, "ProductsCategory", new { id = category.CategoryID })
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

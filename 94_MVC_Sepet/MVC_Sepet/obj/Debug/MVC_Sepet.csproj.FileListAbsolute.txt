@@ -1,0 +1,166 @@
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\MVC_Sepet.dll.config
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\MVC_Sepet.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\MVC_Sepet.pdb
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\csc.exe
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\csc.exe.config
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\csc.rsp
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\csi.exe
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\csi.exe.config
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\csi.rsp
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.AppContext.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Console.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Net.Http.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\vbc.exe
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\vbc.exe.config
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\vbc.rsp
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\Antlr3.Runtime.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\EntityFramework.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\EntityFramework.SqlServer.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\Newtonsoft.Json.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.Helpers.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.Mvc.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.Optimization.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.Razor.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.WebPages.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\WebGrease.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\EntityFramework.xml
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\EntityFramework.SqlServer.xml
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.Helpers.xml
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.Mvc.xml
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.Optimization.xml
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.Razor.xml
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.WebPages.xml
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\Newtonsoft.Json.xml
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\Antlr3.Runtime.pdb
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\obj\Debug\MVC_Sepet.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\obj\Debug\MVC_Sepet.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\obj\Debug\MVC_Sepet.csproj.CopyComplete
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\obj\Debug\MVC_Sepet.dll
+C:\Users\Fatih\Desktop\Github\Bilge Adam Akademi\YMS3144\7-MVC\09.02\MVC_Sepet\MVC_Sepet\obj\Debug\MVC_Sepet.pdb
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\MVC_Sepet.dll.config
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\MVC_Sepet.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\MVC_Sepet.pdb
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\csc.exe
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\csc.exe.config
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\csc.rsp
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\csi.exe
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\csi.exe.config
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\csi.rsp
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.AppContext.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Console.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Net.Http.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\vbc.exe
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\vbc.exe.config
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\vbc.rsp
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\Antlr3.Runtime.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\EntityFramework.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\Newtonsoft.Json.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.Helpers.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.Mvc.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.Optimization.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.Razor.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.WebPages.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\WebGrease.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\EntityFramework.xml
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.Helpers.xml
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.Mvc.xml
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.Optimization.xml
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.Razor.xml
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.WebPages.xml
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\Newtonsoft.Json.xml
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\Antlr3.Runtime.pdb
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\obj\Debug\MVC_Sepet.csprojAssemblyReference.cache
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\obj\Debug\MVC_Sepet.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\obj\Debug\MVC_Sepet.csproj.CopyComplete
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\obj\Debug\MVC_Sepet.dll
+C:\Users\user\source\repos\94_MVC_Sepet\MVC_Sepet\obj\Debug\MVC_Sepet.pdb

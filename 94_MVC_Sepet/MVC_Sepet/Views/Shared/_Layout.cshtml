@@ -1,0 +1,80 @@
+﻿
+@{
+    Layout = null;
+
+    MVC_Sepet.Models.Cart cart = Session["cart"] as MVC_Sepet.Models.Cart;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_Layout</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="/Home/Index">Northwind</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    @Html.ActionLink("Category", "Index", "Category", null, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Product", "Index", "Product", null, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Order", "Index", "Order", null, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Supplier", "Index", "Supplier", null, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Customer", "Index", "Customer", null, new { @class = "nav-link" })
+                </li>
+                <li class="nav-item">
+                    @Html.ActionLink("Shipper", "Index", "Shipper", null, new { @class = "nav-link" })
+                </li>
+            </ul>
+            <ul class="navbar-nav my-2 my-lg-0">
+                @if (cart != null)
+                {
+                    <li>
+                        <a class="btn btn-primary" href="~/Cart/Index">
+                            My Cart <span class="badge badge-light">
+                                @cart.myCart.Count.ToString()
+                            </span>
+                            <span class="sr-only"></span>
+                        </a>
+                    </li>
+                }
+                else
+                {
+                    <li>
+                        <a class="btn btn-primary" href="~/Cart/Index">
+                            My Cart <span class="badge badge-light">0</span>
+                            <span class="sr-only"></span>
+                        </a>
+                    </li>
+                }
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        @RenderBody()
+
+    </div>
+    <footer>
+        <div class="container text-center">
+            <span>@DateTime.Now.Year-BilgeAdam</span>
+        </div>
+    </footer>
+</body>
+</html>
